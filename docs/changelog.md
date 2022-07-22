@@ -1,4 +1,9 @@
 # TBD
+### Features
+* Added CircleCi `check_latest_version` workflow for running a scheduled pipeline every day to control successful module execution
+
+### Fixes
+* Fixed broken link in the readme file
 
 # 0.5.6
 ### Features
